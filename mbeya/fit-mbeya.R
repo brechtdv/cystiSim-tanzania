@@ -18,7 +18,7 @@ pi <- 0.30
 ## fit parameters
 ## .. 1000 retained parameter sets
 ## .. each simulation runs 500 time points
-set.seed(123)
+set.seed(264)
 fit_mbeya <-
 fit(n.sim = 1000, n.update = 500,
     target = list(ht = ht, pc = pc, pi = pi), limit = 0.1,
