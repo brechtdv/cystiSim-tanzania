@@ -19,4 +19,4 @@ Porcine cysticercosis infection intensity | 0.30 | 0.30
 
 #### Acknowledgments
 
-[`cystiSim`](https://github.com/brechtdv/cystiSim) was developed within the framework of [CYSTINET](http://www.cystinet.org/), the European Network on taeniosis/cysticercosis, COST ACTION TD1302.
+[`cystiSim`](https://github.com/brechtdv/cystiSim) was developed by [@UCBraae](https://twitter.com/ucbraae) and [@brechtdv](https://github.com/brechtdv), within the framework of [CYSTINET](http://www.cystinet.org/), the European Network on taeniosis/cysticercosis, COST ACTION TD1302.
